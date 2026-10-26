@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Suma Jacob 👋
 
-<!--
-**Suma-Jacob/Suma-Jacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Automation Engineer | Software Test Analyst
 
-Here are some ideas to get you started:
+Building reliable software through automation, API testing and quality engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a QA professional with experience in e-commerce and telecommunications, passionate about test automation, software quality and continuous improvement.
+
+- Building maintainable automation frameworks
+- Testing web applications and REST APIs
+- Performing functional, regression and integration testing
+- Integrating automated tests into CI/CD pipelines
+
+## Featured Projects
+
+### Selenium Java Automation Framework
+Page Object Model, TestNG, Maven and web UI testing.
+
+### API Testing Portfolio
+Postman, REST APIs, and positive and negative test scenarios.
+
+### Playwright Automation Project
+TypeScript, UI automation and GitHub Actions.
+
+## Tools & Technologies
+
+Java · Selenium WebDriver · TestNG · Maven · Postman · SQL · Git · GitHub · Jenkins · JMeter · Jira · Agile/Scrum
